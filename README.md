@@ -3,14 +3,18 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sophia-15&show_icons=true" alt="Sophia Gallindo"/> 
 </p>
-<p align= "center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30height="30>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-15&layout=compact&theme=graywhite&title_color=268bd2" alt="Sophia Gallindo" />
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sophia-15" alt="Sophia Gallindo" /> </p>
 
 <!---
 Sophia-15/Sophia-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
