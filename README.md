@@ -25,7 +25,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sophia-15&theme=dracula" alt="Sophia Gallindo"/>
-  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-15&layout=compact&theme=dracula" alt="Sophia Gallindo" /
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-15&layout=compact&theme=dracula" alt="Sophia Gallindo" /
 </p>
 
 
