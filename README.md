@@ -1,20 +1,34 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Sophia Gallindo</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sophia-15&show_icons=true" alt="Sophia Gallindo"/> 
+<h3> :woman: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias.
+- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS e JS**.
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Linguagens**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  
+  **DevOps**
+
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+ **Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sophia-15&theme=dracula" alt="Sophia Gallindo"/>
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-15&layout=compact&theme=dracula" alt="Sophia Gallindo" /
 </p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-15&layout=compact&theme=graywhite&title_color=268bd2" alt="Sophia Gallindo" />
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sophia-15" alt="Sophia Gallindo" /> </p>
 
 <!---
 Sophia-15/Sophia-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
