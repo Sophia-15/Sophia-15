@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :woman: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🌱 &nbsp; Learning more about **HTML, CSS, JS e ReactJS**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Linguagens**
+**I know how to use:**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -18,7 +18,7 @@
 
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
- **Ferramentas de Desenvolvimento**
+ **Developing tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
