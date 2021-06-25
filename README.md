@@ -2,8 +2,8 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias.
-- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS, JS e ReactJS**.
+- 🤔 &nbsp; Exploring new technologies.
+- 🌱 &nbsp; Learning more about **HTML, CSS, JS e ReactJS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
