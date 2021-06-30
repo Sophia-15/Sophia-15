@@ -3,7 +3,8 @@
 <h3> :woman: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🌱 &nbsp; Learning more about **HTML, CSS, JS e ReactJS**.
+- 🌱 &nbsp; Currently mastering **HTML, CSS and JS**.
+- 📚 &nbsp; Aiming to study **ReactJS**.
 
 <h3> :rocket: &nbsp;Technologies I use </h3>
 
