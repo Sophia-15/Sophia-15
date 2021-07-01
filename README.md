@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🌱 &nbsp; Currently mastering **HTML, CSS and JS**.
-- 📚 &nbsp; Aiming to study **ReactJS**.
+- 📚 &nbsp; Aiming to study **ReactJS** and **Next.js**.
 
 <h3> :rocket: &nbsp;Technologies I use </h3>
 
