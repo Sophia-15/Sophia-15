@@ -26,9 +26,9 @@
   
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sophia-15&show_icons=true&theme=slateorange&title_color=0059b3&text_color=1a1a1a&icon_color=cc4400&locale=en&hide_border=true&bg_color=DEG,99ccff,ff9966" alt="gabrlcj" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sophia-15&show_icons=true&theme=vue&hide_border=true"  />
     
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sophia-15&show_icons=true&theme=slateorange&title_color=0059b3&text_color=1a1a1a&icon_color=cc4400&layout=compact&hide_border=true&bg_color=DEG,99ccff,ff9966" alt="Sophia-15" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sophia-15&show_icons=true&theme=vue&layout=compact" alt="Sophia-15" />
 </p>
 
 
