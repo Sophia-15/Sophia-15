@@ -36,6 +36,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sophia-15&show_icons=true&theme=vue&bg_color=181818&text_color=fff&layout=compact" alt="Sophia-15" />
 </p>
 
+![Snake animation](https://github.com/sophia-15/sophia-15/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Sophia-15/Sophia-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
