@@ -27,7 +27,7 @@
   
  **You can find me here:**
  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sophia-g-6a8349216)](https://www.linkedin.com/in/sophia-g-6a8349216)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sophia-g-6a8349216)](https://www.linkedin.com/in/sophiagp/)
 
 
 <p align="left">
