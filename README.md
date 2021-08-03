@@ -3,8 +3,8 @@
 <h3> :woman: &nbsp;About me </h3>
 
 - 🤔 &nbsp; I'm a front-end developer aiming to be fullstack.
-- 🌱 &nbsp; Currently mastering **HTML, CSS and JS**.
-- 📚 &nbsp; Aiming to study **ReactJS**, **Next.js**, **Node.js** and **MongoDB**.
+- 🌱 &nbsp; Currently mastering  **Javascript, Node.js and MongoDB**.
+- 📚 &nbsp; Aiming to study **ReactJS**, **Next.js** and **React Native**.
 
 <h3> :rocket: &nbsp;Technologies I use </h3>
 
