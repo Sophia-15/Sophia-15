@@ -6,7 +6,7 @@
 - 🌱 &nbsp; Currently mastering  **Javascript, Node.js and MongoDB**.
 - 📚 &nbsp; Aiming to study **ReactJS**, **Next.js** and **React Native**.
 
-<h3> :rocket: &nbsp;Technologies I use </h3>
+<h3> :rocket: &nbsp;My skills </h3>
 
 
 
