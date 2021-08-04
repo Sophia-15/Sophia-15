@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; I'm a front-end developer aiming to be fullstack.
 - 🌱 &nbsp; Currently mastering  **Javascript, Node.js and MongoDB**.
-- 📚 &nbsp; Aiming to study **ReactJS**, **Next.js** and **React Native**.
+- 📚 &nbsp; Aiming to study **ReactJS** and **Next.js**.
 
 <h3> :rocket: &nbsp;My skills </h3>
 
