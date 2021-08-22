@@ -2,7 +2,7 @@
 
 <h3> :woman: &nbsp;About me </h3>
 
-- 🤔 &nbsp; I'm a front-end developer aiming to be fullstack.
+- 🤔 &nbsp; I'm a backend developer.
 - 🌱 &nbsp; Currently mastering  **Node.js and Typescript**.
 - 📚 &nbsp; Aiming to study **ReactJS** and **Next.js**.
 
