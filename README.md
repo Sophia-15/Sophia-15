@@ -3,7 +3,7 @@
 <h3> :woman: &nbsp;About me </h3>
 
 - 🤔 &nbsp; I'm a fullstack developer.
-- 🌱 &nbsp; Currently mastering  **React Native**.
+- 🌱 &nbsp; Currently mastering  **ReactJS**.
 
 
 <h3> :rocket: &nbsp;Fron </h3>
