@@ -1,31 +1,18 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/iuricode/iuricode/blob/master/pc.svg" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-<h3> :woman: &nbsp;About me </h3>
+```js
+import Desenvolvedor from 'sophia-15';
 
-- 🤔 &nbsp; I'm a fullstack developer.
-- 🌱 &nbsp; Currently mastering  **ReactJS**.
+class SobreMim extends Desenvolvedor {
+  nome = 'Sophia Gallindo';
+  area = 'Front-end';
+}
 
+class Skills extends Desenvolvedor {
+  skills  = ['Javascript, Typescript, ReactJS, Styled Components, SASS'];
+}
+```
 
-<h3> :rocket: &nbsp;Fron </h3>
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-  
- **Developing tools**
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
  **You can find me here:**
  
