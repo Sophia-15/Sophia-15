@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://mail.google.com/mail/u/?authuser=sophia.gallindop@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=32B768" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=32B768" /></a>
 
   <a href="https://www.linkedin.com/in/sophiagp" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=32B768&link=https://www.linkedin.com/in/sophiagp" /></a>
