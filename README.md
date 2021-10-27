@@ -33,6 +33,9 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sophia-15&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Sophia-15" />
 </p>
  
+<!--  <p align="center">
+          <img width="400" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sophia-15&theme=vue&hide_border=false" alt="marcelo-rafael's readme streaks" />
+</p> -->
  
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
