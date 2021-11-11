@@ -1,4 +1,4 @@
-<img src="https://github.com/iuricode/iuricode/blob/master/pc.svg" width="200px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/67246528/141359078-0e45cf9a-5bf3-48ee-864c-1845493a71da.png" width="200px" align="right" alt="Woman coding">
 
 <p align="left"> 
   Olá pessoas, meu nome é Sophia e sou <strong>Desenvlvedora Front-End</strong> com <strong>ReactJS</strong>
@@ -27,8 +27,13 @@
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=0061C3&link=https://www.instagram.com/dev.soup"/></a>
 </p>  
 
+<br />
+<br />
+<br />
+
 <p align="center" >
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sophia-15&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"  />
+  
   
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sophia-15&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Sophia-15" />
 </p>
