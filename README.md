@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/67246528/141359078-0e45cf9a-5bf3-48ee-864c-1845493a71da.png" width="200px" align="right" alt="Woman coding">
+<img src="https://github.com/sophia-15/sophia-15/main/images/eu.svg" width="200px" align="right" alt="Woman coding">
 
 <p align="left"> 
   Olá pessoas, meu nome é Sophia e sou <strong>Desenvlvedora Front-End</strong> com <strong>ReactJS</strong>
@@ -25,7 +25,7 @@
 
   <a href="https://www.instagram.com/dev.soup" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=0061C3&link=https://www.instagram.com/dev.soup"/></a>
-</p>  
+</p>
 
 <br />
 <br />
