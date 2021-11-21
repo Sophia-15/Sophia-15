@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Trello, Git, GitHub, Discord.</strong>
+  💼 Ferramentas: <strong>VSCode, Trello, Git, GitHub, Discord. </strong>
 </p>
 
 <p align="left">
