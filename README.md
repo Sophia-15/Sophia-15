@@ -1,5 +1,5 @@
 <img src="https://github.com/Sophia-15/Sophia-15/blob/main/images/eu.svg" width="200px" align="right" alt="Me coding">
-
+ 
 <p align="left"> 
   Olá pessoas, meu nome é Sophia e sou <strong>Desenvlvedora Front-End</strong> com <strong>ReactJS</strong> 
 </p>
