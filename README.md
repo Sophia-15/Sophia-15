@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>ReactJS, Typescript, SASS, Styled Components, NodeJS, Express, Insomnia, TypeORM. </strong>
+  🦄 Habilidades: <strong>ReactJS, Typescript, SASS, Styled Components, NodeJS, Express, Insomnia, TypeORM. </strong> 
 </p>
 
 <p align="left">
