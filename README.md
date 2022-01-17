@@ -6,7 +6,7 @@
 
 <p align="left">
   🦄 Habilidades: <strong>ReactJS, Typescript, SASS, Styled Components, NodeJS, Express, Insomnia, TypeORM. </strong> 
-</p>
+</p> 
 
 <p align="left">
   💼 Ferramentas: <strong>VSCode, Trello, Git, GitHub, Discord. </strong> 
