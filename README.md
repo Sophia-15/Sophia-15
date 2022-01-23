@@ -10,7 +10,7 @@
 
 <p align="left">
   💼 Ferramentas: <strong>VSCode, Trello, Git, GitHub, Discord. </strong> 
-</p>
+</p> 
  
 <p align="left">
   💌 Você pode me encontar aqui: ⤵️
