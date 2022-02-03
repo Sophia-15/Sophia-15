@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá pessoas, meu nome é Sophia e sou <strong>Desenvolvedora Front-End</strong> com <strong>ReactJS</strong> 
 </p>
-
+ 
 <p align="left">
   🦄 Habilidades: <strong>ReactJS, Typescript, SASS, Styled Components, NodeJS, Express, Insomnia, TypeORM. </strong> 
 </p> 
