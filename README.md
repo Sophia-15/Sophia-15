@@ -40,6 +40,10 @@
   
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sophia-15&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="Sophia-15" />
 </p>
+
+<div>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=sophia-15&theme=darkhub&margin-w=3&margin-h=15"/>
+</div>
  
 <!--  <p align="center">
           <img width="400" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sophia-15&theme=vue&hide_border=false" alt="marcelo-rafael's readme streaks" />
