@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0061C3&link=https://www.linkedin.com/in/sophiagp" /></a>
 
   <a href="https://www.instagram.com/dev.soup" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=0061C3&link=https://www.instagram.com/dev.soup"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=0061C3&link=https://www.instagram.com/sophia.tsx"/></a>
 </p>
 
 <br />  
