@@ -41,10 +41,6 @@
 <br />
 <br />
 
-<div align="center">
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=sophia-15&theme=darkhub&margin-w=3&margin-h=15"/>
-</div>
-
 ##
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sophia-15&theme=0061C3&show_icons=true&count_private=true&bg_color=000&text_color=fff&hide_border=true" width="46%" alt="stats graph" />
@@ -55,6 +51,12 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sophia-15&custom_title=Sophia's%20GitHub%20Activity%20Graph&bg_color=000&color=0061C3&line=626069&point=fff&area_color=2563eb&title_color=0061C3&area=true&hide_border=true" alt="Sophia-15's Github Activity Graph" width="96%">
 </div>
+
+##
+<div align="center">
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=sophia-15&theme=darkhub&margin-w=3&margin-h=15"/>
+</div>
+
 
 <!-- <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
 
