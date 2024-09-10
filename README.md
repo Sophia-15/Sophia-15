@@ -14,7 +14,7 @@
 
 <div align="left">
    <p>
-     💻 I'm currently learning: <strong>C and Django </strong> 
+     💻 I'm currently learning: <strong>Java and Spring </strong> 
    </p> 
    
    <p>
