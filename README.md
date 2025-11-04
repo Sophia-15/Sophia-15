@@ -43,7 +43,7 @@
  
 ##
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sophia-15&theme=0061C3&show_icons=true&count_private=true&bg_color=000&text_color=fff&hide_border=true" width="46%" alt="stats graph" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sophia-15&theme=0061C3&show_icons=true&count_private=true&bg_color=000&text_color=fff&hide_border=true" width="46%" alt="stats graph" /> -->
   <img src="https://streak-stats.demolab.com?user=sophia-15&theme=blue-navy&hide_border=true" width="49%" alt="streaks graph" />
 </p>
 
